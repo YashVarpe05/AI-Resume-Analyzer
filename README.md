@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![AI Resume Analyzer Banner](./public/images/bg-main.svg)
 
 **Smart AI-Powered Resume Analysis & ATS Score Optimization**
 
@@ -93,29 +92,6 @@ npm run dev
 ```
 
 🎉 **That's it!** Open [http://localhost:5173](http://localhost:5173) to see your application.
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### 🏠 Home Dashboard
-
-![Home Dashboard](./public/images/resume_01.png)
-_Track your applications and view ATS scores at a glance_
-
-### 📊 Resume Analysis
-
-![Resume Analysis](./public/images/resume_02.png)
-_Comprehensive AI-powered feedback and suggestions_
-
-### 📤 Upload Interface
-
-![Upload Interface](./public/images/resume_03.png)
-_Intuitive drag-and-drop resume upload_
-
-</div>
 
 ---
 
